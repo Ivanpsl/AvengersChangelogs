@@ -2,7 +2,7 @@
 # Avengers Changelogs
 
 
-Repositorio que contiene el changelog de las aplicación de Avengers desarrolladas por @ivanpsl.
+Repositorio que contiene el changelog de las aplicación de Avengers desarrolladas por @ivanpsl
 
 ## Aplicaciones
 
