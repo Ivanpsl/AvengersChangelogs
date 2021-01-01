@@ -12,7 +12,7 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 
 
 # [0.3.0] - 01-02-2021
-### Added
+### Añadido
 > - Ahora es posible actualizar la aplicación automaticamente sin recurrir a paginas externas 
 
 ### Cambios
