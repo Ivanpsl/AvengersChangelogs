@@ -3,86 +3,86 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 
 
 ## [En desarrollo]
-- Muestra del top de corredores
-- Muestra del top de donadores
-- Muestreo de subidas y bajadas de inversiones
-- Información personal a partir de la clave de identificación ciudadana
-- Lista de streamers oficiales online
+> - Muestra del top de corredores
+> - Muestra del top de donadores
+> - Muestreo de subidas y bajadas de inversiones
+> - Información personal a partir de la clave de identificación ciudadana
+> - Lista de streamers oficiales online
 
 
 
-## [0.3.0] - 01-02-2021
+# [0.3.0] - 01-02-2021
 ### Added
-- Ahora es posible actualizar la aplicación automaticamente sin recurrir a paginas externas 
+> - Ahora es posible actualizar la aplicación automaticamente sin recurrir a paginas externas 
 
 ### Cambios
-- Ya no es necesario que este la base de datos operativa para verificar la versión de la aplicación 
+> - Ya no es necesario que este la base de datos operativa para verificar la versión de la aplicación 
 
 ### Fixed
-- Ahora debería guardar correctamente la configuración personal al cerrar la ventana de configuración y recuperarse correctamente al volver a abrir la aplicación
-- Bugs minoritarios que podian hacer crasehar la aplicación
+> - Ahora debería guardar correctamente la configuración personal al cerrar la ventana de configuración y recuperarse correctamente al volver a abrir la aplicación
+> - Bugs minoritarios que podian hacer crasehar la aplicación
 
 
 
 
-## [0.2b.5] - 06-10-2020
+# [0.2b.5] - 06-10-2020
 ### Añadido
-- Se ha hecho visible el boton en la config para establecer ruta de FiveMPath
-- Ahora cuando se establece una ruta de FiveM se usa dicha ruta para iniciar el juego
+> - Se ha hecho visible el boton en la config para establecer ruta de FiveMPath
+> - Ahora cuando se establece una ruta de FiveM se usa dicha ruta para iniciar el juego
 
 ### Cambios
-- Se ha desactivado el TopMost de la ventana de configuracion ya que podia ser molesta
-- Cambios visuales 
+> - Se ha desactivado el TopMost de la ventana de configuracion ya que podia ser molesta
+> - Cambios visuales 
 
 ### Fixed
-- Se ha arreglado un error que hacia que no funcionase correctamente el boton de acceso a noticias
+> - Se ha arreglado un error que hacia que no funcionase correctamente el boton de acceso a noticias
 
 
 
 
-## [0.2b.4] - 30-09-2020
+# [0.2b.4] - 30-09-2020
 ### Añadido
-- Control y gestión de errores en puntos criticos de la aplicación
+> - Control y gestión de errores en puntos criticos de la aplicación
 
 
 
 
-## [0.2b.3] - 29-09-2020
+# [0.2b.3] - 29-09-2020
 ### Añadido
-- Primeras conexiones a la API Rest para visualizar el estado del servidor
-- Permite seleccionar entre el acceso al servidor oficial o el de pruebas
-- Nuevos UC para la ventana principal y ventanas de configuración y gestión de logs
+> - Primeras conexiones a la API Rest para visualizar el estado del servidor
+> - Permite seleccionar entre el acceso al servidor oficial o el de pruebas
+> - Nuevos UC para la ventana principal y ventanas de configuración y gestión de logs
 
 ### Fixed
-- Solucionado un error que se producia cuando la ruta de instalación de FiveM tenia un espacio en el nombre de alguna carpeta
+> - Solucionado un error que se producia cuando la ruta de instalación de FiveM tenia un espacio en el nombre de alguna carpeta
 
 
 
 
-## [0.2b.2] - 24-09-2020
+# [0.2b.2] - 24-09-2020
 ### Cambios
-- Ahora al borrar cache no elimina la carpeta game
+> - Ahora al borrar cache no elimina la carpeta game
 
 ### Fixed
-- Solucionado un error que se producia cuando la ruta de instalación de FiveM tenia un espacio en el nombre de alguna carpeta
+> - Solucionado un error que se producia cuando la ruta de instalación de FiveM tenia un espacio en el nombre de alguna carpeta
 
 
 
 
-## [0.2b.1] - 24-09-2020
+# [0.2b.1] - 24-09-2020
 ### Fixed
-- Ahora muestra la versión de la aplicación correctamente
+> - Ahora muestra la versión de la aplicación correctamente
 
 
 
 
-## [0.2b.0] - 24-09-2020
+# [0.2b.0] - 24-09-2020
 ### Añadido
-- Conexión con la base de datos
-- Muestreo de noticias con link de acceso
-- Se firma la aplicación 
-- Manifest
-- Verifica que tengas Steam iniciado y FiveM apagado para poder darle a jugar
+> - Conexión con la base de datos
+> - Muestreo de noticias con link de acceso
+> - Se firma la aplicación 
+> - Manifest
+> - Verifica que tengas Steam iniciado y FiveM apagado para poder darle a jugar
 
 ### Cambios
 - Se rediseña las ventanas al completo
@@ -90,16 +90,16 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 
 
 
-## [0.1.1] - 25-08-2020
+# [0.1.1] - 25-08-2020
 ### Añadido
-- Todo esto era campo
+> - Todo esto era campo
 
 
 
 
-## [0.1.0] - xxxxx
+# [0.1.0] - xxxxx
 ### Añadido
-- Todo esto era sangre
+> - Todo esto era sangre
 
 
 [0.2b.5]: https://mega.nz/file/4xZBnSoQ#vemI8ECw2wMA3calCyQ1BNYwWqemXf2bmf9JluZUVZA
