@@ -9,6 +9,8 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 - Información personal a partir de la clave de identificación ciudadana
 - Lista de streamers oficiales online
 
+
+
 ## [0.3.0] - 01-02-2021
 ### Added
 - Ahora es posible actualizar la aplicación automaticamente sin recurrir a paginas externas 
@@ -19,6 +21,8 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 ### Fixed
 - Ahora debería guardar correctamente la configuración personal al cerrar la ventana de configuración y recuperarse correctamente al volver a abrir la aplicación
 - Bugs minoritarios que podian hacer crasehar la aplicación
+
+
 
 
 ## [0.2b.5] - 06-10-2020
@@ -34,9 +38,13 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 - Se ha arreglado un error que hacia que no funcionase correctamente el boton de acceso a noticias
 
 
+
+
 ## [0.2b.4] - 30-09-2020
 ### Añadido
 - Control y gestión de errores en puntos criticos de la aplicación
+
+
 
 
 ## [0.2b.3] - 29-09-2020
@@ -49,6 +57,8 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 - Solucionado un error que se producia cuando la ruta de instalación de FiveM tenia un espacio en el nombre de alguna carpeta
 
 
+
+
 ## [0.2b.2] - 24-09-2020
 ### Cambios
 - Ahora al borrar cache no elimina la carpeta game
@@ -57,9 +67,13 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 - Solucionado un error que se producia cuando la ruta de instalación de FiveM tenia un espacio en el nombre de alguna carpeta
 
 
+
+
 ## [0.2b.1] - 24-09-2020
 ### Fixed
 - Ahora muestra la versión de la aplicación correctamente
+
+
 
 
 ## [0.2b.0] - 24-09-2020
@@ -74,9 +88,13 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 - Se rediseña las ventanas al completo
 
 
+
+
 ## [0.1.1] - 25-08-2020
 ### Añadido
 - Todo esto era campo
+
+
 
 
 ## [0.1.0] - xxxxx
@@ -84,8 +102,8 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 - Todo esto era sangre
 
 
-[0.2b.5]: https://mega.nz/file/4xZBnSoQ#vemI8ECw2wMA3calCyQ1BNYwWqemXf2bmf9JluZUVZA ```diff + [Recomendada] ```
+[0.2b.5]: https://mega.nz/file/4xZBnSoQ#vemI8ECw2wMA3calCyQ1BNYwWqemXf2bmf9JluZUVZA
 [0.2b.4]: http://54.36.127.168/launcher/3_v0.02b/ReleaseV02b4.rar 
 [0.2b.3]: http://54.36.127.168/launcher/3_v0.02b/ReleaseV02b3.rar
 [0.2b.2]: https://mega.nz/file/JtInRaJA#CRBjOft7RvV8jy_nlGM7heiuB7781C9z3qWi34REwZA
-[0.2b.0]: http://54.36.127.168/launcher/3_v0.02b/ReleaseV02b.rar ```diff - [Recomendada] ```
+[0.2b.0]: http://54.36.127.168/launcher/3_v0.02b/ReleaseV02b.rar 
