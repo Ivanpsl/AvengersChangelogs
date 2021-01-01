@@ -2,14 +2,7 @@
 # Changelog Launcher
 Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotados en este documento.
 
-
-## [En desarrollo]
-> - Muestra del top de corredores
-> - Muestra del top de donadores
-> - Muestreo de subidas y bajadas de inversiones
-> - Información personal a partir de la clave de identificación ciudadana
-> - Lista de streamers oficiales online
-
+Tambien es posible ver todos los cambios esperados en futuras versiones en la sección de [En desarrollo]
 
 
 # [0.3.0] - 01-02-2021
@@ -101,6 +94,18 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 # [0.1.0] - xxxxx
 ### Añadido
 > - Todo esto era sangre
+
+
+-------------------------------
+
+## [En desarrollo]
+> - Muestra del top de corredores
+> - Muestra del top de donadores
+> - Muestreo de subidas y bajadas de inversiones
+> - Información personal a partir de la clave de identificación ciudadana
+> - Lista de streamers oficiales online
+
+
 
 
 [0.2b.5]: https://mega.nz/file/4xZBnSoQ#vemI8ECw2wMA3calCyQ1BNYwWqemXf2bmf9JluZUVZA
