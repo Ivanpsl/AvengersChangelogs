@@ -1,3 +1,4 @@
+# ![Aplicaciones](https://media.discordapp.net/attachments/724362312789786635/794640192992051230/666.png?width=1440&height=349)
 # Changelog Launcher
 Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotados en este documento.
 
