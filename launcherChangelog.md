@@ -85,7 +85,7 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 > - Verifica que tengas Steam iniciado y FiveM apagado para poder darle a jugar
 
 ### Cambios
-- Se rediseña las ventanas al completo
+> - Se rediseña las ventanas al completo
 
 
 
