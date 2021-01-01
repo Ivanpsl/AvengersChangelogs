@@ -5,7 +5,6 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 Tambien es posible ver todos los cambios esperados en futuras versiones en la sección de [En desarrollo](https://github.com/Ivanpsl/AvengersChangelogs/blob/main/launcherChangelog.md#en-desarrollo)
 
 -------------------------------
--------------------------------
 
 
 # 0.3.0 - 01-02-2021
