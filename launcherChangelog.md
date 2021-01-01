@@ -63,7 +63,7 @@ Tambien es posible ver todos los cambios esperados en futuras versiones en la se
 
 
 
-# [0.2b.1] - 24-09-2020
+# 0.2b.1 - 24-09-2020
 ### Correcciones
 > - Ahora muestra la versión de la aplicación correctamente
 
@@ -84,21 +84,21 @@ Tambien es posible ver todos los cambios esperados en futuras versiones en la se
 
 
 
-# [0.1.1] - 25-08-2020
+# 0.1.1 - 25-08-2020
 ### Añadido
 > - Todo esto era campo
 
 
 
 
-# [0.1.0] - xxxxx
+# 0.1.0 - xxxxx
 ### Añadido
 > - Todo esto era sangre
 
 
 -------------------------------
 
-## [En desarrollo]
+## En desarrollo
 > - Muestra del top de corredores
 > - Muestra del top de donadores
 > - Muestreo de subidas y bajadas de inversiones
