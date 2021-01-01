@@ -18,5 +18,5 @@ Recursos | Visible en discord
 * [Acceder a discord](https://discord.gg/KHc8bCh)
 * [Twitter Avengers](https://twitter.com/avengers_rp)
 * [Instagram Avengers](https://www.instagram.com/avengers_roleplay/)
-* [Mi twitter](https://www.twitch.tv/ivanpsl)
-* [Mi twitch](https://www.twitch.tv/twingastur
+* [Mi twitter](https://www.twitter.com/ivanpsl)
+* [Mi twitch](https://www.twitch.tv/twingastur)
