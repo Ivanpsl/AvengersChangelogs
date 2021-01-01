@@ -1,4 +1,4 @@
-# ![Aplicaciones](https://media.discordapp.net/attachments/724362312789786635/793951246242414592/AVANGERS_-_LOGO_TRANSPARAN_1.png?width=676&height=676)
+# ![Aplicaciones](https://media.discordapp.net/attachments/724362312789786635/794640192992051230/666.png?width=1440&height=349)
 # Avengers Changelogs
 
 
