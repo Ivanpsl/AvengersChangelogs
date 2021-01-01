@@ -9,8 +9,9 @@ Repositorio que contiene el changelog de las aplicación de Avengers desarrollad
 Aplicación | Enlaces
 ------------ | -------------
 Launcher | [changelog](https://github.com/Ivanpsl/AvengersChangelogs/blob/main/launcherChangelog.md)
-API | [changelog](
-Recursos | visible en discord
+API | [changelog](https://github.com/Ivanpsl/AvengersChangelogs/blob/main/APIChangelog.md)
+Bot | Visible en discord
+Recursos | Visible en discord
 
 ## Comunidad y enlaces de interes
 
