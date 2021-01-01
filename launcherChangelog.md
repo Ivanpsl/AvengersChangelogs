@@ -32,7 +32,7 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 
 ### Cambios
 > - Se ha desactivado el TopMost de la ventana de configuracion ya que podia ser molesta
-> - Cambios visuales 
+> - Cambios visuales  
 
 ### Correcciones
 > - Se ha arreglado un error que hacia que no funcionase correctamente el boton de acceso a noticias
