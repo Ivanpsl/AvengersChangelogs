@@ -1,2 +1,2 @@
 # Avengers Changelogs
-Repositorio que contiene el changelog de la aplicación de Avengers
+Repositorio que contiene el changelog de las aplicación de Avengers
