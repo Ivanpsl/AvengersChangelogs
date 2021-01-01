@@ -1,4 +1,4 @@
-# Changelog
+# Changelog Launcher
 Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotados en este documento.
 
 
