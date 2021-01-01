@@ -18,7 +18,7 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 ### Cambios
 > - Ya no es necesario que este la base de datos operativa para verificar la versión de la aplicación 
 
-### Fixed
+### Correcciones
 > - Ahora debería guardar correctamente la configuración personal al cerrar la ventana de configuración y recuperarse correctamente al volver a abrir la aplicación
 > - Bugs minoritarios que podian hacer crasehar la aplicación
 
@@ -34,7 +34,7 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 > - Se ha desactivado el TopMost de la ventana de configuracion ya que podia ser molesta
 > - Cambios visuales 
 
-### Fixed
+### Correcciones
 > - Se ha arreglado un error que hacia que no funcionase correctamente el boton de acceso a noticias
 
 
@@ -53,7 +53,7 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 > - Permite seleccionar entre el acceso al servidor oficial o el de pruebas
 > - Nuevos UC para la ventana principal y ventanas de configuración y gestión de logs
 
-### Fixed
+### Correcciones
 > - Solucionado un error que se producia cuando la ruta de instalación de FiveM tenia un espacio en el nombre de alguna carpeta
 
 
@@ -63,14 +63,14 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 ### Cambios
 > - Ahora al borrar cache no elimina la carpeta game
 
-### Fixed
+### Correcciones
 > - Solucionado un error que se producia cuando la ruta de instalación de FiveM tenia un espacio en el nombre de alguna carpeta
 
 
 
 
 # [0.2b.1] - 24-09-2020
-### Fixed
+### Correcciones
 > - Ahora muestra la versión de la aplicación correctamente
 
 
