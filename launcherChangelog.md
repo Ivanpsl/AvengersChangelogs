@@ -7,14 +7,21 @@ Tambien es posible ver todos los cambios esperados en futuras versiones en la se
 -------------------------------
 
 
-# 0.3.0 - 01-02-2021
+# [0.3.b] - 01-02-2021
+
+*ATENCION: ESTA ES UNA VERSION PREVIA A LA 0.3.0, QUE HA TENIDO QUE SALIR CON FUNCIONALIDADES INCOMPLETAS DEBIDO A AGENTES EXTERNOS (FIVEM), PUEDE CONtENER tRAZAS DE MUCHOS FALLOS*
+
 ### Añadido
-> - Ahora es posible actualizar la aplicación automaticamente sin recurrir a paginas externas 
+> - Ahora es posible actualizar la aplicación automaticamente sin recurrir a paginas externas
+> - Nuevo panel para visualizar el estado de los streamers del servidor
+> - Nuevas funciones para iniciar la migración al uso de la API para y no mas base de datos
 
 ### Cambios
 > - Ya no es necesario que este la base de datos operativa para verificar la versión de la aplicación 
+> - Eliminadas dependencias
 
 ### Correcciones
+> - Ahora utiliza un nuevo parametro de arranque para saltarse el error producido por la nueva build de FiveM 
 > - Ahora debería guardar correctamente la configuración personal al cerrar la ventana de configuración y recuperarse correctamente al volver a abrir la aplicación
 > - Bugs minoritarios que podian hacer crasehar la aplicación
 
@@ -111,6 +118,7 @@ Tambien es posible ver todos los cambios esperados en futuras versiones en la se
 
 
 
+[0.3.b]: http://54.36.127.168/launcher/4_v0.03.0b/DebugV03b.zip
 [0.2b.5]: https://mega.nz/file/4xZBnSoQ#vemI8ECw2wMA3calCyQ1BNYwWqemXf2bmf9JluZUVZA
 [0.2b.4]: http://54.36.127.168/launcher/3_v0.02b/ReleaseV02b4.rar 
 [0.2b.3]: http://54.36.127.168/launcher/3_v0.02b/ReleaseV02b3.rar
