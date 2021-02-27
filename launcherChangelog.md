@@ -14,7 +14,7 @@ Tambien es posible ver todos los cambios esperados en futuras versiones en la se
 ### Añadido
 > - Ahora es posible actualizar la aplicación automaticamente sin recurrir a paginas externas
 > - Nuevo panel para visualizar el estado de los streamers del servidor
-> - Nuevas funciones para iniciar la migración al uso de la API para y no mas base de datos
+> - Nuevas funciones para iniciar la migración al uso de la API y no usar mas base de datos
 
 ### Cambios
 > - Ya no es necesario que este la base de datos operativa para verificar la versión de la aplicación 
