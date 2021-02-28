@@ -5,9 +5,19 @@ Todos los cambios importantes sobre el Launcher de AvengersRP apareceran anotado
 Tambien es posible ver todos los cambios esperados en futuras versiones en la sección de [En desarrollo](https://github.com/Ivanpsl/AvengersChangelogs/blob/main/launcherChangelog.md#en-desarrollo)
 
 -------------------------------
+# [0.3.b1] - HOTFIX - 28-02-2021
+
+*ATENCION: ESTA ES UNA VERSION PREVIA A LA 0.3.0, QUE HA TENIDO QUE SALIR CON FUNCIONALIDADES INCOMPLETAS DEBIDO A AGENTES EXTERNOS (FIVEM), PUEDE CONtENER TRAZAS DE MUCHOS FALLOS*
+
+### Cambios
+> - Reajustes en algunos paneles
+> - Se vuelve a comprobar que steam este encendido
+
+### Correcciones
+> - Ahora se muestran correctamente los botones 
 
 
-# [0.3.b] - 01-02-2021
+# [0.3.b] - 27-02-2021
 
 *ATENCION: ESTA ES UNA VERSION PREVIA A LA 0.3.0, QUE HA TENIDO QUE SALIR CON FUNCIONALIDADES INCOMPLETAS DEBIDO A AGENTES EXTERNOS (FIVEM), PUEDE CONtENER TRAZAS DE MUCHOS FALLOS*
 
@@ -117,7 +127,7 @@ Tambien es posible ver todos los cambios esperados en futuras versiones en la se
 
 
 
-
+[0.3.b1]: http://54.36.127.168/launcher/4_v0.03.0b/ReleaseV03b1.zip
 [0.3.b]: http://54.36.127.168/launcher/4_v0.03.0b/DebugV03b.zip
 [0.2b.5]: https://mega.nz/file/4xZBnSoQ#vemI8ECw2wMA3calCyQ1BNYwWqemXf2bmf9JluZUVZA
 [0.2b.4]: http://54.36.127.168/launcher/3_v0.02b/ReleaseV02b4.rar 
