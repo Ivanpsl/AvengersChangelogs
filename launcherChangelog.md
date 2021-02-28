@@ -14,7 +14,7 @@ Tambien es posible ver todos los cambios esperados en futuras versiones en la se
 > - Se vuelve a comprobar que steam este encendido
 
 ### Correcciones
-> - Ahora se muestran correctamente los botones de cierre y configuración 
+> - Ahora se muestran correctamente los botones de cierre y configuración y la animacion de Avengers 
 
 
 # [0.3.b] - 27-02-2021
